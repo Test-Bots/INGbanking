@@ -1,0 +1,10 @@
+{
+  "carddetails":
+  [
+  {  "carduser":
+  [
+    {"id1":"An individual"},
+    {"id2":"A professional or a business"}
+]
+    
+  }]}
