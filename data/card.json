@@ -3,11 +3,17 @@
   [
   {  "carduser":
   [
-    {"obj1":"An individual",
-     "id1":"ING Visa Classic",
+    {"obj1":"An individual"},
+     [
+       {
+       "id1":"ING Visa Classic",
      "id2":"ING MasterCard Gold",
-     "id3":"ING Card"},
-    {"obj2":"A professional or a business"}
+     "id3":"ING Card"}],
+    {"obj2":"A professional or a business"},
+     [{ "id1":"ING Deposit Card",
+      "id2":"ING Corporate Card Solution",
+      "id3":"ING Payment Card"
+    }]
 ]
     
   }]}
